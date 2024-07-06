@@ -1,79 +1,36 @@
 {
   "tcp_alloc": {
     "allowed": 6,
-    "claimed": 2,
-    "desired": 2
+    "claimed": 1,
+    "desired": 1
   },
   "tunnels": [
     {
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "log-heel.gl.joinmc.link",
-          "assigned_srv": "log-heel.gl.joinmc.link",
+          "assigned_domain": "cable-considerable.gl.joinmc.link",
+          "assigned_srv": "cable-considerable.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "394275ba-bdef-43fc-9226-68e6f3168646",
-          "ip_hostname": "19.ip.gl.ply.gg",
-          "ip_type": "both",
-          "port_end": 32589,
-          "port_start": 32588,
-          "region": "global",
-          "static_ip4": "147.185.221.19",
-          "tunnel_ip": "2602:fbaf:0:1::13"
-        },
-        "status": "allocated"
-      },
-      "created_at": "2024-07-05T21:59:50.206301Z",
-      "disabled_reason": null,
-      "domain": null,
-      "expire_notice": null,
-      "firewall_id": null,
-      "id": "d1218d35-1c78-4e9c-8365-478e3d914793",
-      "name": "Minecraft Java",
-      "origin": {
-        "data": {
-          "local_ip": "127.0.0.1",
-          "local_port": 25565
-        },
-        "type": "default"
-      },
-      "port_count": 1,
-      "port_type": "tcp",
-      "ratelimit": {
-        "bytes_per_second": null,
-        "packets_per_second": null
-      },
-      "region": "global",
-      "tunnel_type": "minecraft-java"
-    },
-    {
-      "active": true,
-      "alloc": {
-        "data": {
-          "assigned_domain": "gas-migration.gl.joinmc.link",
-          "assigned_srv": "gas-migration.gl.joinmc.link",
-          "assignment": {
-            "type": "shared-ip"
-          },
-          "id": "d44d8f4d-5569-446c-9b9b-a889a6364905",
+          "id": "21d0da1d-4faf-46c9-9cbe-aac377a7f516",
           "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 61606,
-          "port_start": 61605,
+          "port_end": 62067,
+          "port_start": 62066,
           "region": "global",
           "static_ip4": "147.185.221.20",
           "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-07-05T22:13:54.599196Z",
+      "created_at": "2024-07-06T04:31:10.540415Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "f3e8c480-3edc-424b-abb8-c6e18281ee6d",
+      "id": "aabdda8d-8450-4b7e-952a-a6fa83e5530f",
       "name": "Minecraft Java",
       "origin": {
         "data": {
